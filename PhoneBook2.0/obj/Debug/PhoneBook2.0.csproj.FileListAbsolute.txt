@@ -1,0 +1,12 @@
+D:\github\PhoneBook2.0\PhoneBook2.0\bin\Debug\PhoneBook2.0.exe.config
+D:\github\PhoneBook2.0\PhoneBook2.0\bin\Debug\PhoneBook2.0.exe
+D:\github\PhoneBook2.0\PhoneBook2.0\bin\Debug\PhoneBook2.0.pdb
+D:\github\PhoneBook2.0\PhoneBook2.0\obj\Debug\PhoneBook2.0.exe
+D:\github\PhoneBook2.0\PhoneBook2.0\obj\Debug\PhoneBook2.0.pdb
+D:\github\PhoneBook2.0\PhoneBook2.0\obj\Debug\PhoneBook2.0.csprojResolveAssemblyReference.cache
+C:\github\PhoneBook2.0\PhoneBook2.0\bin\Debug\PhoneBook2.0.exe.config
+C:\github\PhoneBook2.0\PhoneBook2.0\obj\Debug\PhoneBook2.0.exe
+C:\github\PhoneBook2.0\PhoneBook2.0\obj\Debug\PhoneBook2.0.pdb
+C:\github\PhoneBook2.0\PhoneBook2.0\bin\Debug\PhoneBook2.0.exe
+C:\github\PhoneBook2.0\PhoneBook2.0\bin\Debug\PhoneBook2.0.pdb
+C:\github\PhoneBook2.0\PhoneBook2.0\obj\Debug\PhoneBook2.0.csprojResolveAssemblyReference.cache
